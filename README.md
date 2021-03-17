@@ -24,10 +24,14 @@ page_worst_of = "https://www.lazone.org/articles/worstOf.html"
 
 #### Dataviz
 
-![viz](viz1.png)
+![wcloud](images/wcl_best.png)
 
-![viz](viz2.png)
+![wcloud](images/wcl_worst.png)
 
-![viz](viz3.png)
+![viz](images/viz1.png)
 
-![viz](viz4.png)
+![viz](images/viz2.png)
+
+![viz](images/viz3.png)
+
+![viz](images/viz4.png)
