@@ -2,7 +2,7 @@
 
 # Web Scraping de `lazone.org` avec Selenium et Chrome
 
-![lazone](lazone.png)
+<p ALIGN="center"><img src="./lazone.png"></p>
 
 
 #### Scraping
@@ -19,7 +19,7 @@ Nous enregisterons :
 
 Les pages à scrapper sont les suivantes :
 
-page_best_of = "https://www.lazone.org/articles/bestOf.html"
+page_best_of = "https://www.lazone.org/articles/bestOf.html"<br>
 page_worst_of = "https://www.lazone.org/articles/worstOf.html"
 
 #### Dataviz
