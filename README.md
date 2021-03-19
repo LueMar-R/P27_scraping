@@ -22,6 +22,14 @@ Les pages à scrapper sont les suivantes :
 page_best_of = "https://www.lazone.org/articles/bestOf.html"<br>
 page_worst_of = "https://www.lazone.org/articles/worstOf.html"
 
+#### Choix techniques
+
+_Selenium_ : Bien que le premier rôle de Selenium soit le testing de pages webs (développement web), cet outil est beaucoup utilisé pour l’extraction de données. C'est donc un outil très complet pour le scraping, puisqu'il permet de générer un comportement semblable à celui d'un utilisateur humain.
+
+_MySQL_ : MySQL est un SGBDR gratuit, de complexité faible et adaptée au stockage de petite taille (ce qui est le cas de notre BDD). 
+
+_Notebook_ : Notre BDD n'étant pas appelée à évoluer régulièrement, nous n'actualisons pas nos dataviz en temps réel. Nous construisons donc nos graphes sur un notebook en utlisant les bibliothèques python Matplotlib et Seaborn.
+
 #### Dataviz
 
 ![wcloud](images/wcl_best.png)
