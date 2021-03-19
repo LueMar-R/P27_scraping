@@ -32,14 +32,15 @@ _**Notebook**_ : Notre BDD n'étant pas appelée à évoluer régulièrement, no
 
 ### Dataviz
 
-![wcloud](images/wcl_best.png)
+<p ALIGN="center"><img src="./images/wcl_best.png"></p>
 
-![wcloud](images/wcl_worst.png)
+<p ALIGN="center"><img src="./images/wcl_worst.png"></p>
 
-![viz](images/viz1.png)
+<p ALIGN="center"><img src="./images/viz1.png"></p>
 
-![viz](images/viz2.png)
+<p ALIGN="center"><img src="./images/viz2.png"></p>
 
-![viz](images/viz3.png)
+<p ALIGN="center"><img src="./images/viz3.png"></p>
 
-![viz](images/viz4.png)
+<p ALIGN="center"><img src="./images/viz4.png"></p>
+
